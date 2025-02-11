@@ -1,4 +1,4 @@
-# Digit and Face Recognition
+# Face and Digit Recognition
 
 This project uses the MNIST handwritten digit dataset and a face dataset to train a two-layer neural network. Here are some of the key files:
 
